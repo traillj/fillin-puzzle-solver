@@ -1,2 +1,2 @@
 # fillin-puzzle-solver
-Declarative Programming Project 2
+See fillin.pdf for the project specification.
